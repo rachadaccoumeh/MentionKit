@@ -1,0 +1,29 @@
+PODS:
+  - GrowingTextView (0.7.2)
+  - MentionKit (0.1.2):
+    - GrowingTextView
+    - SDWebImage
+  - SDWebImage (5.17.0):
+    - SDWebImage/Core (= 5.17.0)
+  - SDWebImage/Core (5.17.0)
+
+DEPENDENCIES:
+  - MentionKit (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - GrowingTextView
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  MentionKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GrowingTextView: 876bf42005b5e4a4fd740597db12caaf41f0fe6c
+  MentionKit: 068c5d4776f3121ee9f47c6ff23d18fb42465901
+  SDWebImage: 750adf017a315a280c60fde706ab1e552a3ae4e9
+
+PODFILE CHECKSUM: 427bb12ad527611331903c888a991b6d37aeb787
+
+COCOAPODS: 1.11.3

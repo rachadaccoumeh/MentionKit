@@ -1,0 +1,6 @@
+framework module MentionKit {
+  umbrella header "MentionKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

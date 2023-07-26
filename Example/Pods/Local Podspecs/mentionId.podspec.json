@@ -1,0 +1,27 @@
+{
+  "name": "MentionKit",
+  "version": "0.1.0",
+  "summary": "A short description of MentionKit.",
+  "dependencies": {
+    "SDWebImage": [
+
+    ]
+  },
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rachadaccoumeh/MentionKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    ".": "rachacaccoumeh@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/./MentionKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MentionKit/Classes/**/*"
+}
